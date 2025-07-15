@@ -24,7 +24,7 @@ This isn’t just code—**it’s an experience**.
 ---
 
 ## 📸 DEMO SNAPSHOT  
-![DEMO](Screenshot%20(37).png)
+![DEMO](working.png)
 
 ---
 
